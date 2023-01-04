@@ -1,8 +1,10 @@
 body{
-    background-image: url(Github_Picture.jpg);
+    /* background-image: url(Github_Picture.jpg);
     background: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: cover; */
+
+    background-color: powderblue;
 
 }
 h1{
